@@ -22,7 +22,7 @@ This Discord bot generates images from text prompts using the `StableDiffusionXL
 1. Clone the repository:
     ```sh
     git clone https://github.com/Damarcreative/Bot-Discord-Animagine.git
-    cd discord-image-bot
+    cd Bot-Discord-Animagine
     ```
 
 2. Create a virtual environment and activate it:
